@@ -1,6 +1,20 @@
-# Dashboard
+# Weather Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+
+# Installation Details:
+1. Install Angular client using `$npm install -g @angular/cli`
+2. Clone the repository to your local folder.
+3. Open the folder in VS Code and open the terminal from the VS Code.
+4. Run the server using `ng serve --open`
+5. Application will open in browser at `http://localhost:4200/`.
+
+# Weather API used:
+Weather API https://weatherstack.com/ is used to obtain real time weather data. 
+Register for free to get a access key. Free key supports 1000 requests per month.
+# Screenshots
+Please refer to the output folder.
+
 
 ## Development server
 
